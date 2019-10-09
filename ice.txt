@@ -1,0 +1,20 @@
+Name of ice cream is Cornetto 
+Flavour is Vanilla 
+Price is 78 Rs.
+Amount is 3,
+Name of ice cream is Cornetto 
+Flavour is Chocolate 
+Price is 60 Rs.
+Amount is 7,
+Name of ice cream is Cornetto 
+Flavour is Hazlenut 
+Price is 60 Rs.
+Amount is 6,
+Name of ice cream is Cornetto 
+Flavour is Strawberry 
+Price is 65 Rs.
+Amount is 8,
+Name of ice cream is Magnum 
+Flavour is Chocolate 
+Price is 60 Rs.
+Amount is 3,

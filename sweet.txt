@@ -1,0 +1,9 @@
+Name of sweet is Halvah 
+Price is 150 Rs. per kg
+Amount is 2 kg,
+Name of sweet is Ghulabjaman 
+Price is 160 Rs. per kg
+Amount is 7 kg,
+Name of sweet is Barfi 
+Price is 150 Rs. per kg
+Amount is 6 kg,

@@ -1,0 +1,9 @@
+Name is Raspberrycake 
+Price is 250 Rs.
+Amount is 6,
+Name is Vanillacake 
+Price is 250 Rs.
+Amount is 6,
+Name is Strawberrycake 
+Price is 260 Rs.
+Amount is 7,
