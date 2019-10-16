@@ -6,6 +6,7 @@
 using namespace std;
 class sweet
 {
+	//hello 
 	private:
 		char* name;
 		char* flavour;
